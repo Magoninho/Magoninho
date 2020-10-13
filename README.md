@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning ... C++ and Java!
+- 🔭 I’m currently working on ... Game development!
+- 📫 How to reach me: ... Discord: Lost Kin#7711
