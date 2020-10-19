@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning ... C++ and Java!
-- 🔭 I’m currently working on ... Game development!
+- 🔭 I’m currently working on ... cool stuff
 - 📫 How to reach me: ... Discord: Lost Kin#7711
