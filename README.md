@@ -60,7 +60,7 @@ I’m a student that enjoys using my programming skills for making people happy.
 # Workspace Spec
 
 ![nvidia gtx960](https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
-![intel core i7 6th](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
+![intel core i7 6th](https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
 ![enter image description here](https://img.shields.io/badge/8GB%20RAM-0078D6?style=for-the-badge)  
 ![dell inspiron 15](https://img.shields.io/badge/Dell%20Inspiron%2015-0078D6?style=for-the-badge&logo=dell&logoColor=white)
 
