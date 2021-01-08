@@ -9,7 +9,9 @@ I’m a student that enjoys using my programming skills for making people happy.
 ## I like
 
 *   Exact Sciences 📐
-*   Game Development 👾
+*   Game Development 🎮
+*   Indie Games 👾
+*   Computer Graphics 🔺
 *   RPG 🎲
 *   Star Wars 🌌
 
