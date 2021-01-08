@@ -9,7 +9,7 @@ I’m a student that enjoys using my programming skills for making people happy.
 ## I like
 
 *   Exact Sciences 📐
-*   Game development 👾
+*   Game Development 👾
 *   RPG 🎲
 *   Star Wars 🌌
 
@@ -21,7 +21,7 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 # My stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Magoninho&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magoninho&hide=TeX&langs_count=10&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Magininho's github stats](https://github-readme-stats.vercel.app/api?username=Magoninho&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magoninho&hide=TeX&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Social and contact
 
@@ -38,7 +38,7 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 ![youtube](https://img.shields.io/badge/YouTube-Magoninho%20Gamer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  
 ![twitch](https://img.shields.io/badge/Twitch-MagoninhoGamer-9146FF?style=for-the-badge&logo=twitch&logoColor=white)  
-![netflix here](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)![crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)![prime](https://img.shields.io/badge/Prime%20Video-00A8E1?style=for-the-badge&logo=prime&logoColor=white)![crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 # Skills
 
@@ -47,26 +47,27 @@ I’m a student that enjoys using my programming skills for making people happy.
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![csharp](https://img.shields.io/badge/C%23-73398D?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
-
+![godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)  
+![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## I plan to learn
 
-![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)![opengl](https://img.shields.io/badge/Opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white)![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![socket.io](https://img.shields.io/badge/socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white)![three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 # Workspace Spec
 
 ![nvidia gtx960](https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ![intel core i7 6th](https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
-![enter image description here](https://img.shields.io/badge/8GB%20RAM-0078D6?style=for-the-badge)  
+![8gb ram](https://img.shields.io/badge/8GB%20RAM-0078D6?style=for-the-badge)  
 ![dell inspiron 15](https://img.shields.io/badge/Dell%20Inspiron%2015-0078D6?style=for-the-badge&logo=dell&logoColor=white)
 
 # Gamer time
 
-![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://magoninho.itch.io/)
+![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)![epic](https://img.shields.io/badge/Epic%20games-313131?style=for-the-badge&logo=epic-games&logoColor=white)[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://magoninho.itch.io/)
 
 # Music
 
@@ -76,6 +77,15 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 ![code](https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)  
+![visual studio](https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
 ![sublime](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)  
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![notepadpp](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=black)  
-![notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)
+![notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)  
+![obs](https://img.shields.io/badge/Obs%20studio-000000?style=for-the-badge&logo=obs-studio&logoColor=white)
+
+# Highlights
+
+![hackthebox](https://img.shields.io/badge/Hack%20the%20box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)  
+![github pro](https://img.shields.io/badge/GitHub-Pro-5C2D91?style=for-the-badge&logo=github&logoColor=white)  
+![discord](https://img.shields.io/badge/Discord-nitro-FF6800?style=for-the-badge&logo=discord&logoColor=white)
