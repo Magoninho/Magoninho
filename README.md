@@ -4,7 +4,7 @@
 
 # Welcome to my profile 👋
 
-I’m a student that enjoys using my programming skills for making people happy.
+I’m a student that enjoys using my programming skills for making people happy. And my dream is to become a computer scientist or a software engineer.
 
 ```cpp
 /* Current learning C++ yeah */
