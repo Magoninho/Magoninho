@@ -58,13 +58,14 @@ std::cout << "WELCOME TO MY PROFILE" << std::endl;
 
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
+## Current learning
+![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)![sfml](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=SFML&logoColor=white)
+
 ## I plan to learn
 
 ![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![opengl](https://img.shields.io/badge/Opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white)![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 ![socket.io](https://img.shields.io/badge/socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white)![three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-## Current learning
-![cpp](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)![sfml](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=SFML&logoColor=white)
 
 # Workspace Spec
 
