@@ -6,11 +6,6 @@
 
 I’m a student that enjoys using my programming skills for making people happy. And my dream is to become a computer scientist or a software engineer.
 
-```cpp
-/* Current learning C++ yeah */
-std::cout << "WELCOME TO MY PROFILE" << std::endl;
-```
-
 ## I like
 
 *   Exact Sciences 📐
@@ -74,21 +69,8 @@ std::cout << "WELCOME TO MY PROFILE" << std::endl;
 ![1tb 8gb ram](https://img.shields.io/badge/1tb%208GB%20RAM-0078D6?style=for-the-badge)  
 ![dell inspiron 15](https://img.shields.io/badge/Dell%20Inspiron%2015-0078D6?style=for-the-badge&logo=dell&logoColor=white)
 
-# Gamer time
-
-![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)![epic](https://img.shields.io/badge/Epic%20games-313131?style=for-the-badge&logo=epic-games&logoColor=white)[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://magoninho.itch.io/)
-
-# Music
-
-![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)![soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)![youtube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-
 # Tools
 
 ![code](https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)![eclipse](https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white) ![visual studio](https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![sublime](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)  
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![notepadpp](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=black) ![notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black) ![obs](https://img.shields.io/badge/Obs%20studio-000000?style=for-the-badge&logo=obs-studio&logoColor=white)
 
-# Highlights
-
-![hackthebox](https://img.shields.io/badge/Hack%20the%20box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)  
-![github pro](https://img.shields.io/badge/GitHub-Pro-5C2D91?style=for-the-badge&logo=github&logoColor=white)  
-![discord](https://img.shields.io/badge/Discord-nitro-FF6800?style=for-the-badge&logo=discord&logoColor=white)
