@@ -23,7 +23,8 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 # My stats
 
-[![Magininho's github stats](https://github-readme-stats.vercel.app/api?username=Magoninho&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magoninho&hide=TeX&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Magininho's github stats](https://github-readme-stats.vercel.app/api?username=Magoninho&show_icons=true&theme=onedark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magoninho&hide=TeX&langs_count=10&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Social and contact
 
