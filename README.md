@@ -1,7 +1,3 @@
-
-
-![eu](https://media.giphy.com/media/TU9tfjcS5VH7IaVKgB/giphy.gif)
-
 # Welcome to my profile 👋
 
 I’m a student that enjoys using my programming skills for making people happy. And my dream is to become a computer scientist or a software engineer.
