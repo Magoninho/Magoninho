@@ -33,9 +33,13 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 ## Frameworks
 ### I used
+
 ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)![godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)![pygame](https://img.shields.io/badge/pygame-06AC38?style=for-the-badge&logo=python&logoColor=yellow)![p5js](https://img.shields.io/badge/p5.js-f5f6f7?style=for-the-badge&logo=p5.js&logoColor=ED225D)
+
 ### I'm learning
+
 ![sfml](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=SFML&logoColor=white)![opengl](https://img.shields.io/badge/Opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
 ---
 
 # Development Tools
