@@ -29,7 +29,6 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 ![c](https://img.shields.io/badge/C,%20The%20mother%20of%20modern%20languages-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![rust](https://img.shields.io/badge/Rust,%20the%20future%20of%20programming-000000?style=for-the-badge&logo=rust&logoColor=white) 
 
----
 
 ## Frameworks
 ### I used
