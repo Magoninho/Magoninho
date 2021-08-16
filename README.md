@@ -11,9 +11,10 @@ I’m a student that enjoys using my programming skills for making people happy.
 *   Fortaleza/CE - Brazil
 
 # My stats
-
-[![Magininho's github stats](https://github-readme-stats.vercel.app/api?username=Magoninho&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magoninho&hide=TeX&langs_count=10&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Magoninho&show_icons=true&theme=onedark&count_private=true"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magoninho&hide=TeX&langs_count=10&theme=onedark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
+</div>
 
 # Skills
 ## Languages
