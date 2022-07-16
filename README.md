@@ -6,7 +6,7 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 ## Bio
 
-*   16 years old
+*   17 years old
 *   2 years of experience
 *   Fortaleza/CE - Brazil
 
