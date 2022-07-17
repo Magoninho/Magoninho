@@ -55,21 +55,15 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 
 # Welcome to my profile! 
-<img src="profile.svg" width="300px" align="right" alt="my_profile">
 
-
-<div align="left">
 My name is Felipe, and I like programming.<br><br>
 
 ## Bio
 
 - 17 years old
-- 2 years of experience
+- 4+ years of experience
 - Fortaleza/CE - Brazil
-
-<br><br>
-
-
+<!--
 # My experience
 
 <img src="programming.svg" width="250px" align="right" alt="Programming">
@@ -94,7 +88,7 @@ My name is Felipe, and I like programming.<br><br>
 - Become a software engineer :sunglasses:
 - Live in a different country :airplane:
 <br><br><br><br><br><br><br><br>
-
+-->
 # My stats
 
 <div>
@@ -104,12 +98,7 @@ My name is Felipe, and I like programming.<br><br>
 
 # Social
 
-<img src="contact.svg" width="300px" align="right" alt="Programming">
-
 <a href="https://magoninho.github.io"><img src="https://img.shields.io/badge/My Website-222222?style=for-the-badge&logo=github&logoColor=white)"/></a>
-
 <a href="https://www.youtube.com/channel/UCiZ8e57XVHmlsMN6XRg4Gdg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-<a href="https://www.linkedin.com/in/joao-felipe-ribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>  
