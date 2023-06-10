@@ -60,7 +60,7 @@ My name is Felipe, and I like programming.<br><br>
 
 ## Bio
 
-- 17 years old
+- 18 years old
 - 4+ years of experience
 - Fortaleza/CE - Brazil
 <!--
