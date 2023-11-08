@@ -92,8 +92,9 @@ My name is Felipe, and I like programming.<br><br>
 # My stats
 
 <div>
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Magoninho&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Magoninho&hide=TeX&langs_count=10&theme=tokyonight&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
+  
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Magoninho&show_icons=true&theme=tokyonight&count_private=true"/><br>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magoninho&hide=html,TeX,css,makefile,cmake&count_private=true&layout=compact&theme=tokyonight"/>
 </div>
 
 # Social
