@@ -60,12 +60,7 @@ I’m a student that enjoys using my programming skills for making people happy.
 
 ## Bio
 <samp>
-I'm Felipe. A programmer enthusiast that is graduating Computer Science at UNIFOR, Fortaleza - Brazil. I'm a frontend developer but I'm very interested in learning backend development as well.
-</samp>
-<br>
-<br>
-<samp>
-Not talking about the job market, though, I really enjoy learning about computer graphics. Some of my studies are uploaded to my <a href="https://www.youtube.com/@pythonista_4382">YouTube channel</a> where I try to spread this knowledge to people.
+I'm Felipe. A programmer enthusiast that is graduating Computer Science at UNIFOR, Fortaleza - Brazil. I'm a fullstack developer, focused on backend development.
 </samp>
 
 <!--
